@@ -18,17 +18,17 @@ avatar: https://github.com/neoskyclad/neoskyclad.github.io/blob/master/images/av
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
-  facebook:
+  email: neoskyclad@gmail.com
+  facebook: 
   flickr:
   github: 
-  instagram:
+  instagram: hyun_dda_gun
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g.
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: https://www.youtube.com/channel/UCZJAYYHD4VWBztclaUmouiQ
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
