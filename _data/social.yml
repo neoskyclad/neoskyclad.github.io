@@ -1,6 +1,9 @@
-- title: Twitter
-  url: https://twitter.com/ngzhio
-  icon: fab fa-twitter
+- title: FaceBook
+  url: https://facebook.com/profile.php?id=100008269454139
+  icon: fab fa-facebook
+- title: Instagram
+  url: https://instagram.com/hyun_dda_gun
+  icon: fab fa-instagram
 - title: GitHub
-  url: https://github.com/ngzhio/jekyll-theme-hamilton
+  url: https://github.com/neoskyclad
   icon: fab fa-github

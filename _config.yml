@@ -1,7 +1,7 @@
 title: Code Hyun's Blog
 description: My personal Code Blog
 author: Kwon DaeHyun
-avatar: /logo.png
+avatar: /logo.jpg
 email: neoskyclad@gmail.com
 
 plugins:
@@ -32,7 +32,7 @@ exclude:
 twitter:
   username: neoskyclad
   card: summary
-logo: logo.png
+logo: logo.jpg
 social:
   name: neoskyclad
   links:
@@ -40,4 +40,4 @@ social:
     - https://www.facebook.com/neoskyclad
     - https://github.com/neoskyclad
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
-lang: en
+lang: kr
